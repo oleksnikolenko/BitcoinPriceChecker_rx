@@ -1,3 +1,3 @@
 # BitcoinPriceChecker_rx
 
-iOS application for real-live Bitcoin price.
+iOS application for monitoring real-live Bitcoin price.
